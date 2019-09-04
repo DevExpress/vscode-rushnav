@@ -37,8 +37,4 @@ If you press **Ctrl** + **Alt** + **P**, CodeRush shows found types in the CodeR
 
 ![Tree View](media/tree_nav.png "Tree View")
 
-
-* Select the desired type in the navigation results to jump to its declaration.
-
-
-## Extension Settings
+* Select a required type in the navigation results to jump to a type declaration.
