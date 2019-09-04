@@ -39,6 +39,3 @@ If you used the **Ctrl** + **Alt** + **P** shortcut, CodeRush shows the found ty
 
 
 * Select a required type in the navigation results to jump to a type declaration.
-
-
-## Extension Settings
