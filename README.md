@@ -27,13 +27,13 @@ The navigation menu appears...
 
 * Choose the required type you want to jump to and press **Enter**. Types can appear in one of two interfaces, depending on the invoking shortcut:
 
-If you press **Ctrl** + **Alt** + **N**, CodeRush shows the navigation results in the code editor's new window.
+If you press **Ctrl** + **Alt** + **P**, CodeRush shows the navigation results in the code editor's new window.
 
 ![](/uploads/upload_ea36e519e06569b0f61b8f03d3832d83.png)
 ![Peek View](media/peek_nav.png "Peek View")
 
 
-If you press **Ctrl** + **Alt** + **P**, CodeRush shows found types in the CodeRush navigation tree.
+If you press **Ctrl** + **Alt** + **N**, CodeRush shows found types in the CodeRush navigation tree.
 
 ![Tree View](media/tree_nav.png "Tree View")
 
