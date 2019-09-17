@@ -27,13 +27,13 @@ The navigation menu appears.
 
 * Choose the required type you want to jump to and press **Enter**.
 
-If you used the **Ctrl** + **Alt** + **N** shortcut, CodeRush shows the navigation results in the Visual code editor's new window.
+If you used the **Ctrl** + **Alt** + **P** shortcut, CodeRush shows the navigation results in the Visual code editor's new window.
 
 ![](/uploads/upload_ea36e519e06569b0f61b8f03d3832d83.png)
 ![Peek View](media/peek_nav.png "Peek View")
 
 
-If you used the **Ctrl** + **Alt** + **P** shortcut, CodeRush shows the found types in the CodeRush navigation tree.
+If you used the **Ctrl** + **Alt** + **N** shortcut, CodeRush shows the found types in the CodeRush navigation tree.
 
 ![Tree View](media/tree_nav.png "Tree View")
 
