@@ -13,10 +13,6 @@ This CodeRush extension helps you quickly and easily navigate to:
 ![Screenshot](media/screen1.gif "Navigation")
 
 
-## Installation
-
-Use the **code --install-extension navigation-0.0.2.vsix** command.
-
 ## How to Use
 
 * Place the **caret** in a **type name** and press one of two (more detail below) invoking shortcuts: **Ctrl** + **Alt** + **N** or **Ctrl** + **Alt** + **P**.
