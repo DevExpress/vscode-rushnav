@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.0.6 (March 4, 2020)
+* Selection Expand/Reduce in TypeScript/JavaScript
+
 ## 0.0.5 (Oct 30, 2019)
 * You can now use bookmarks and markers to mark important parts of your code, and instantly return to these parts at any time
 
