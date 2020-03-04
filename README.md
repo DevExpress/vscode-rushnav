@@ -1,6 +1,7 @@
 # RushNav
 
-Navigate to TypeScript type declarations and references. You can also use bookmarks and markers to mark important parts of your code, and instantly return to these parts at any time.
+Navigate to TypeScript type declarations and references. Quickly expand or reduce the selected text by logical code blocks (in TypeScript and JavaScript).
+Use bookmarks and markers in TypeScript to mark important parts of your code, and instantly return to these parts at any time.
 
 ## TypeScript Type Navigation 
 
@@ -121,3 +122,39 @@ With caret inside the code editor (so it has focus):
 * Press **Esc** to remove the marker from the stack, showing the selected code or previously-stored location. 
 
 ![Markers](media/screen3.gif "Markers")
+
+
+## Selection Expand/Reduce in TypeScript/JavaScript
+
+The **Expand Selection** and **Reduce Selection** commands allow you to expand or reduce the selected text by logical code blocks. The **Expand Selection** command also selects the code block if the caret is inside it. 
+
+You need to assign shortcuts before you can execute these commands.
+
+![Selection Expand](media/screen4.gif "Selection Expand")
+
+
+## Add Shortcuts for Selection Expand/Reduce
+
+1) Open the **Keyboard Shortcuts** editor:
+
+*	Go to the **File** | **Preferences** | **Keyboard Shortcuts** menu item 
+
+    ![Shortcuts](media/shortcuts1.png "Shortcuts")
+
+or 
+
+* Сlick **Manage** and choose **Keyboard Shortcuts** item. 
+
+    ![Shortcuts](media/shortcuts2.png "Shortcuts")
+
+
+2)	Find the **CodeRush: Expand Selection** command, select it, and click **Add Keybinding**.
+    
+    ![Shortcuts](media/shortcuts3.png "Shortcuts")
+
+3) In the dialog that appears, press the desired keyboard shortcut to bind to this command (for example, **NumPad_Add**) and press **Enter**. 
+    
+    ![Shortcuts](media/shortcuts4.png "Shortcuts")
+
+
+4)	Repeat these steps to bind a shortcut to the **CodeRush: Reduce Selection** command (for example, **NumPad_Subtract**).
