@@ -147,13 +147,13 @@ or
 ![Shortcuts](media/shortcuts2.png "Shortcuts")
 
 
-2)	Find the **CodeRush: Expand Selection** command, select it, and click **Add Keybinding**.
+2)	Find the **CodeRush: Expand Selection** command, select it, and click **Add Keybinding** .
     
-![Shortcuts](media/shortcuts3.png "Shortcuts")
+![Shortcuts](media/shortcuts3.png)
 
-3) In the dialog that appears, press the desired keyboard shortcut to bind to this command (for example, **NumPad_Add**) and press **Enter**. 
+3) In the dialog that appears, press the desired keyboard shortcut to bind to this command (for example, **NumPad_Add**) and press **Enter** .
     
-![Shortcuts](media/shortcuts4.png "Shortcuts")
+![Shortcuts](media/shortcuts4.png)
 
 
 4)	Repeat these steps to bind a shortcut to the **CodeRush: Reduce Selection** command (for example, **NumPad_Subtract**).
