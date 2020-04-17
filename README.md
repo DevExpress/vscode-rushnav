@@ -91,7 +91,6 @@ To navigate to an anonymous bookmark, click that desired bookmark entry in the *
 
 * Enter the new name for the bookmark and press **Enter**:
    
-![](/uploads/upload_7f3de504325b948f801d6fa1f89bd907.png)
 ![Bookmark Name](media/rename_bookmark2.png "Bookmark Name")
  
    
@@ -139,22 +138,22 @@ You need to assign shortcuts before you can execute these commands.
 
 *	Go to the **File** | **Preferences** | **Keyboard Shortcuts** menu item 
 
-    ![Shortcuts](media/shortcuts1.png "Shortcuts")
+![Shortcuts](media/shortcuts1.png "Shortcuts")
 
 or 
 
 * Сlick **Manage** and choose **Keyboard Shortcuts** item. 
 
-    ![Shortcuts](media/shortcuts2.png "Shortcuts")
+![Shortcuts](media/shortcuts2.png "Shortcuts")
 
 
 2)	Find the **CodeRush: Expand Selection** command, select it, and click **Add Keybinding**.
     
-    ![Shortcuts](media/shortcuts3.png "Shortcuts")
+![Shortcuts](media/shortcuts3.png "Shortcuts")
 
 3) In the dialog that appears, press the desired keyboard shortcut to bind to this command (for example, **NumPad_Add**) and press **Enter**. 
     
-    ![Shortcuts](media/shortcuts4.png "Shortcuts")
+![Shortcuts](media/shortcuts4.png "Shortcuts")
 
 
 4)	Repeat these steps to bind a shortcut to the **CodeRush: Reduce Selection** command (for example, **NumPad_Subtract**).
