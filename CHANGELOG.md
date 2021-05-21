@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.0.0 (May 21, 2020)
+## 1.0.0 (May 21, 2021)
 * Navigation is available in tsx files. The extension structure has been reworked. The "Rush Nav"  extension now has the "Rush Core" dependency.
 
 ## 0.0.6 (March 4, 2020)
